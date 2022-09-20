@@ -7,7 +7,7 @@ import requests, json, random
 url = ""
 user = ""
 password = ""
-# Full path with trailing slash at the end
+# Full path of directory the python script is in with trailing slash at the end
 path = ""
 
 # You should manually create a empty textfile in the path by the name of last_id.txt
