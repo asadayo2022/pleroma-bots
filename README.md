@@ -1,9 +1,9 @@
 # pleroma-bots
 Some python scripts that post and do polling on the fediverse, made for the Mastodon and Pleroma APIs
 
-check image-bot and polling-bot for comments explaning how it works, the rest of the files are not commented
+check image-bot and polling-bot for comments explaning how it works, the rest of the files are not commented WIPs
 
-the scripts are meant to be executed by crontab, you can execute them manually as well or however you want
+the scripts are meant to be executed by crontab, you can execute them manually as well or however you want.
 in order to have crontab do it this is a cron job example:
 
 ```
